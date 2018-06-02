@@ -1,0 +1,2 @@
+git log | egrep -e 'jira-|Author:' | grep -E '^.{1,3}'
+
